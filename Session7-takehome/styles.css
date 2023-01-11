@@ -1,0 +1,12 @@
+body {
+  background-color: #ffe4c4;
+  font-family: "Inter", sans-serif;
+}
+.blog-card {
+  min-width: 128px;
+  max-width: 256px;
+  min-height: 128px;
+  border-radius: 10px;
+  margin-bottom: 16px;
+  background-color: rgb(255, 250, 250);
+}

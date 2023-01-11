@@ -1,0 +1,23 @@
+<style>
+      h1 {
+        color: teal;
+      }
+      body {
+        background-color: snow;
+      }
+      article {
+        background-color: honeydew;
+      }
+      .booksummary {
+        color: gray;
+      }
+      .highlight {
+        color: cadetblue;
+      }
+      #author {
+        color: blueviolet;
+      }
+      a:hover {
+        color: red;
+      }
+</style>
